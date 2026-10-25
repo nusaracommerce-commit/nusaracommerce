@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NusaraCommerce | Privacy Policy</title>
+  <meta name="description" content="Privacy Policy for NusaraCommerce marketing automation.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 22px;
+      line-height: 1.7;
+      color: #243047;
+      background: #f8fafc;
+    }
+    header {
+      background: #3b82f6;
+      color: white;
+      padding: 28px;
+      border-radius: 14px;
+    }
+    main {
+      background: white;
+      padding: 28px;
+      margin-top: 20px;
+      border-radius: 14px;
+    }
+    h2 { color: #2563eb; }
+    a { color: #2563eb; }
+    footer { margin: 24px 0; font-size: 14px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>NusaraCommerce</h1>
+    <p>Privacy Policy</p>
+  </header>
+
+  <main>
+    <p><strong>Last updated:</strong> 25 October 2026</p>
+
+    <h2>1. Introduction</h2>
+    <p>
+      This Privacy Policy explains how NusaraCommerce handles information
+      when managing marketing content for its digital educational products.
+    </p>
+
+    <h2>2. Information We Process</h2>
+    <p>
+      Our marketing workflow may process product names, public Etsy listing
+      URLs, Pinterest Pin titles, descriptions, keywords, image ideas and
+      account information made available through authorized integrations.
+    </p>
+
+    <h2>3. How We Use Information</h2>
+    <p>
+      We use relevant information to prepare, review and manage promotional
+      content for NusaraCommerce products. Content is reviewed before
+      publication.
+    </p>
+
+    <h2>4. Third-Party Services</h2>
+    <p>
+      Our workflow may use Etsy, Pinterest, n8n and Google Sheets.
+      These services process information according to their own terms
+      and privacy policies.
+    </p>
+
+    <h2>5. Data Security and Retention</h2>
+    <p>
+      We take reasonable steps to protect information and credentials
+      used in our workflow. Information is retained only as reasonably
+      necessary for the purposes described here and applicable obligations.
+    </p>
+
+    <h2>6. Privacy Requests</h2>
+    <p>
+      For questions about this policy or information handled by
+      NusaraCommerce, please contact us using the business contact
+      information provided in our Etsy shop.
+    </p>
+
+    <h2>7. Children's Privacy</h2>
+    <p>
+      Our marketing workflow is intended to promote educational products.
+      It is not designed to collect personal information directly from children.
+    </p>
+
+    <h2>8. Policy Updates</h2>
+    <p>
+      We may update this policy when our practices change. The latest
+      version will be published on this page.
+    </p>
+
+    <h2>9. Contact</h2>
+    <p>
+      Business: NusaraCommerce<br>
+      Etsy shop:
+      <a href="https://www.etsy.com/shop/NusaraCommerce">
+        NusaraCommerce on Etsy
+      </a>
+    </p>
+  </main>
+
+  <footer>
+    &copy; 2026 NusaraCommerce
+  </footer>
+</body>
+</html>
